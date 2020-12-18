@@ -8,7 +8,9 @@ C'est une bibliothèque de plusieurs exemple de code pour l'exercise.
 # Dossier
  
 Google Font contient : Html, css
+
 Velveytyne contient : Html, css, webfont
+
 Images contient : Html, css, img
 
 
