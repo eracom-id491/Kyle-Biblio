@@ -1,0 +1,16 @@
+@media (min-width: 825px) {
+
+	.goo {
+		font-size: 60pt;
+		color: green;
+		text-align: center;
+	}
+
+}
+ @font-face {
+	font-family: 'Indie Flower', cursive;
+}
+p {
+	font-family: 'Indie Flower';
+	font-size: 60px;
+	}
